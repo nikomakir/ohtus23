@@ -11,3 +11,5 @@ Tällä tekniikalla on tarkoitus keskustella pienissä ryhmissä noin 10 min ja 
 
 Tässä tekniikassa on myös tarkoitus jakaa esim. taululle tilaa kolmeen osaan, johon osallistujat kiinnittävät omia lappujaan. Alussa siis osallistujat kirjoittavat lappuihin huomioita sprintin ajalta ja kukin käy kiinnittämässä ne taululle oikean otsikon alle. _Glad_ kuvaa positiivisia asioita, _Sad_ huonoja asioita ja _Mad_ huonoja asioita, jotka yleensä ovat myös tiimin ulkopuolisia asioita. Kun kaikki ovat kiinnittäneet laput, niin jokainen saa antaa äänensä tietylle määrälle, usein viidelle aiheelle. Tilaisuuden järjestäjä, usein scrum master sitten johtaa keskustelua lähtien eniten ääniä saadusta aiheesta. Aiheita käsitellään sitten järjestyksessa eniten ääniä saaneesta alaspäin kunnes kaikki aiheet on käsitelty tai 60 minuuttia on tullut täyteen.
 
+
+:)
